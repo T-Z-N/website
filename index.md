@@ -56,7 +56,7 @@
                 <!--</li>-->
 
                 <li>
-                    <a href="pinouts.html">
+                    <a href="https://docs.google.com/document/d/1P59jgOr8-71QhfFcSkNh9uxK7bg61lmH9t6wagNl6GM/edit">
                         <span class="tag">[1]</span><span> OKUMAYA VE INCELEMEYE DEGER KISILER KILAVUZU </span>
                     </a>
                 </li>
