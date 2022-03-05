@@ -12,7 +12,7 @@
 
             <!-- <div id="header" class="header">
                 <div class="logodiv">
-                    <a href="index.html"><img class="logo" src="https://n-o-d-e.live/images/logo.svg"></a>
+                    <a href="index.html"><img class="logo" src="https://n-o-d-e.live/images/logo.svg"></a>-->
 
                     <div class="filter">
                     <a href="index.html">HOME</a>
@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
--->
+
     
     <div id="page">
         <div id="content">
