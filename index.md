@@ -1,28 +1,16 @@
 <html><head>
-    <title>N O D E</title>
-    <link rel="shortcut icon" href="https://n-o-d-e.live/images/avatar.png">
+    <title>T Z N</title>
+    <!--<link rel="shortcut icon" href="https://n-o-d-e.live/images/avatar.png">
     <link rel="alternate" href="https://n-o-d-e.net/rss/rss.xml" type="application/rss+xml" title="N O D E">
-    <link rel="stylesheet" type="text/css" href="https://n-o-d-e.live/css/style_hashbase.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://n-o-d-e.live/css/style_hashbase.css" media="screen">-->
 </head>
-
-<body data-new-gr-c-s-check-loaded="14.1052.0" data-gr-ext-installed="">
-
-<!-- 
-=============================
-    _   ______  ____  ______
-   / | / / __ \/ __ \/ ____/
-  /  |/ / / / / / / / __/   
- / /|  / /_/ / /_/ / /___   
-/_/ |_/\____/_____/_____/   
-
-=============================
- -->
-
+<!--data-new-gr-c-s-check-loaded="14.1052.0" data-gr-ext-installed=""-->
+<body >
 
 
     <!--HEADER SECTION -->
 
-            <div id="header" class="header">
+            <!-- <div id="header" class="header">
                 <div class="logodiv">
                     <a href="index.html"><img class="logo" src="https://n-o-d-e.live/images/logo.svg"></a>
 
@@ -48,7 +36,7 @@
                     </div>
                 </div>
             </div>
-
+-->
     
     <div id="page">
         <div id="content">
@@ -69,10 +57,10 @@
 
                 <li>
                     <a href="pinouts.html">
-                        <span class="tag">[NO]</span><span>THE PINOUTS BOOK</span>
+                        <span class="tag">[1]</span><span> OKUMAYA VE INCELEMEYE DEGER KISILER KILAVUZU </span>
                     </a>
                 </li>
-
+<!--
                 <li>
                     <a href="watch_mods.html">
                         <span class="tag">[HW]</span><span>MORE CASIO WATCH MODS (LCD COLORS, TRANSPARENT DISPLAY, MICRO SD, STRAP REMOVER)</span>
@@ -816,7 +804,7 @@
                     </a>
                 </li>
 
-
+-->
 
             </ul>
             </div>
