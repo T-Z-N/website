@@ -1,6 +1,6 @@
 <html><head>
     <title>T Z N</title>
-    <link rel="shortcut icon" href="https://n-o-d-e.live/images/avatar.png">
+    <link rel="shortcut icon" href=">
     <link rel="alternate" href="https://n-o-d-e.net/rss/rss.xml" type="application/rss+xml" title="N O D E">
     <link rel="stylesheet" type="text/css" href="https://n-o-d-e.live/css/style_hashbase.css" media="screen">
 </head>
@@ -31,11 +31,6 @@
                     <span class="footdogs">  / </span>
                     <a href="http://n-o-d-e.shop">SHOP</a>
 
-
-
-                    </div>
-                </div>
-            </div>
 
     
     <div id="page">
@@ -805,6 +800,5 @@
                 </li>
 
 -->
-            </ul>
-            </div>
+            
             
