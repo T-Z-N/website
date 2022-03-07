@@ -1,7 +1,6 @@
 <html><head>
     <title>T Z N</title>
-    <link rel="shortcut icon" href=">
-    <link rel="alternate" href="https://n-o-d-e.net/rss/rss.xml" type="application/rss+xml" title="N O D E">
+    <!--<link rel="alternate" href="https://n-o-d-e.net/rss/rss.xml" type="application/rss+xml" title="N O D E">-->
     <link rel="stylesheet" type="text/css" href="https://n-o-d-e.live/css/style_hashbase.css" media="screen">
 </head>
 <!--data-new-gr-c-s-check-loaded="14.1052.0" data-gr-ext-installed=""-->
