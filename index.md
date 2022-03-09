@@ -19,6 +19,14 @@
                     <span class="footdogs">  / </span>
                     <a href="https://www.youtube.com/c/HocaGibiHocaa/videos">Youtube</a>
 
+                    <span class="footdogs">  / </span>
+                    <a href="https://docs.google.com/document/d/1P59jgOr8-71QhfFcSkNh9uxK7bg61lmH9t6wagNl6GM/edit">OADK</a>
+                    
+                    <span class="footdogs">  / </span>
+                    <a href="https://docs.google.com/document/d/1P59jgOr8-71QhfFcSkNh9uxK7bg61lmH9t6wagNl6GM/edit">φιλόσοφος </a>
+                        
+                    
+
 
 
     
