@@ -10,15 +10,8 @@
     <!--HEADER SECTION -->
 
             <!-- <div id="header" class="header">
-                <div class="logodiv">
-                    <a href="index.html"><img class="logo" src="https://n-o-d-e.live/images/logo.svg"></a>-->
-
-                    <div class="filter">
-                    <a href="index.html">H O M E </a>
-
                     <span class="footdogs">  / </span>
-                    <a href="https://www.youtube.com/c/HocaGibiHocaa/videos">Youtube</a>
-
+                    <a href="Youtube.html">Youtube</a>
                     <span class="footdogs">  / </span>
                     <a href="https://docs.google.com/document/d/1P59jgOr8-71QhfFcSkNh9uxK7bg61lmH9t6wagNl6GM/edit">OADK</a>
                     
