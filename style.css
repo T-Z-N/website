@@ -3,7 +3,13 @@
     src: url('https://n-o-d-e.live/fonts/font.eot');
     src: local('â˜º'), url('https://n-o-d-e.live/fonts/font.woff') format('woff'), url('https://n-o-d-e.live/fonts/font.ttf') format('truetype'), url('https://n-o-d-e.live/fonts/font.svg') format('svg');
 }
-
+.header {
+    height: 55px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+    border-bottom: dotted 2.71828182845904523536028px #444;
+}
 body {
     letter-spacing: 0.1px;
     padding: 0;
@@ -78,14 +84,6 @@ img {
     margin-top: 55px;
 }
 
-.header {
-    height: 66px;
-    width: 100%;
-    margin: auto;
-    margin-bottom: 50px;
-    border-bottom: dotted 1px #444;
-}
-
 .logodiv {
     max-width: 900px;
     margin: auto;
@@ -146,7 +144,7 @@ img {
 }
 
 .tag {
-    color: #c8c8c8;
+    color: #e3ce53;
 }
 
 .notification {
